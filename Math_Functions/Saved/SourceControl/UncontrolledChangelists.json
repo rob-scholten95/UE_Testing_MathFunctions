@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Github/UE_Testing_MathFunctions/Math_Functions/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Github/UE_Testing_MathFunctions/Math_Functions/Plugins/MathFunctions/Content/BFL_Math.uasset"
+			]
+		}
+	]
+}
